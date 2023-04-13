@@ -1,0 +1,31 @@
+/* .container {
+    font-family: arial;
+    font-size: 24px;
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+    outline: dashed 1px black;
+    display: flex;
+    justify-content: center;
+  }
+  p{
+    text-align: center;
+  }
+  .imag{
+    width: 5px;
+    height: 5px;
+  }
+  .row121,.row122{
+    display: inline;
+  } */
+ .p2{
+    margin-bottom: 50px;
+ }
+
+/* body{ margin:0 auto; } */
+/* .left{float:left;width: 33.33%;}
+.right{float:right;width: 33.33%;}
+.center{margin:0 auto;width: 33.33%;} */
+body{
+    background-color:rgb(146, 133, 133);
+}
